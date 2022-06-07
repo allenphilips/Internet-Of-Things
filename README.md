@@ -7,4 +7,5 @@ https://wokwi.com/projects/333799378069226066
 
 https://wokwi.com/projects/333805648701555283
 
-
+3.LCD 
+https://wokwi.com/projects/333806682158137939
