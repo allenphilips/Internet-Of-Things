@@ -9,3 +9,5 @@ https://wokwi.com/projects/333805648701555283
 
 3.LCD 
 https://wokwi.com/projects/333806682158137939
+4.Temperature and Humidity:
+https://wokwi.com/projects/334346231606149714
