@@ -16,5 +16,9 @@ https://wokwi.com/projects/334346755679191635
 5.Temperature and Humidity:
 https://wokwi.com/projects/334346231606149714
 
-6.PIR:
+6.IR:
+https://wokwi.com/projects/334347782067323474
+
+7.PIR:
 https://wokwi.com/projects/334347041012449875
+
