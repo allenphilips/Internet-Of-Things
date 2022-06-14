@@ -27,3 +27,6 @@ https://wokwi.com/projects/334436349103833683
 
 9.Motion Sensor:
 https://wokwi.com/projects/334431854492910163
+
+10.Motion Sensor Buzzer:
+https://wokwi.com/projects/334433831716127314
