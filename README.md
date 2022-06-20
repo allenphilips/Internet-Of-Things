@@ -38,3 +38,10 @@ https://wokwi.com/projects/334434440478458452
 https://wokwi.com/projects/334431013706924626
 
 13. Servo motor:
+https://wokwi.com/projects/334975025852449363
+
+14. Servo motor controlled by potentiometer:
+https://wokwi.com/projects/334978058200023635
+
+15.Servo motor controlled by push button:
+https://wokwi.com/projects/334977135889351250
