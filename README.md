@@ -44,4 +44,4 @@ https://wokwi.com/projects/334975025852449363
 https://wokwi.com/projects/334978058200023635
 
 15.Servo motor controlled by push button:
-https://wokwi.com/projects/334977135889351250
+https://wokwi.com/projects/334980736128909908
