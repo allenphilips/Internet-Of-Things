@@ -34,13 +34,13 @@ https://wokwi.com/projects/334433831716127314
 11.Ultrasonic Sensor LED:<br>
 https://wokwi.com/projects/334434440478458452
 
-12. Button LED:<br>
+12.Button LED:<br>
 https://wokwi.com/projects/334431013706924626
 
-13. Servo motor:<br>
+13.Servo motor:<br>
 https://wokwi.com/projects/334975025852449363
 
-14. Servo motor controlled by potentiometer:<br>
+14.Servo motor controlled by potentiometer:<br>
 https://wokwi.com/projects/334978058200023635
 
 15.Servo motor controlled by push button:<br>
@@ -49,5 +49,5 @@ https://wokwi.com/projects/334980736128909908
 16.Buzzer:<br>
 https://wokwi.com/projects/335066289535976018
 
-17. Buzzer with push button:<br>
+17.Buzzer with push button:<br>
 https://wokwi.com/projects/335070852899930708
