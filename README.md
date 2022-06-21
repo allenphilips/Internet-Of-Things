@@ -50,4 +50,4 @@ https://wokwi.com/projects/334980736128909908
 https://wokwi.com/projects/335066289535976018
 
 17. Buzzer with push button:
-https://wokwi.com/projects/335067311309324884
+https://wokwi.com/projects/335070852899930708
