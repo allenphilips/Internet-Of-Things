@@ -51,3 +51,6 @@ https://wokwi.com/projects/335066289535976018
 
 17.Buzzer with push button:<br>
 https://wokwi.com/projects/335070852899930708
+
+18.Buzzer with ultrasonic sensor:<br>
+https://wokwi.com/projects/335072341158527571
