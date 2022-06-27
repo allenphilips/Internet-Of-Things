@@ -38,7 +38,7 @@ https://wokwi.com/projects/334434440478458452
 https://wokwi.com/projects/334431013706924626
 
 13.Servo motor:<br>
-https://wokwi.com/projects/334975025852449363
+https://wokwi.com/projects/335615739430961747
 
 14.Servo motor controlled by potentiometer:<br>
 https://wokwi.com/projects/334978058200023635
