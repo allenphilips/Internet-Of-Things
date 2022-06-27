@@ -56,4 +56,4 @@ https://wokwi.com/projects/335070852899930708
 https://wokwi.com/projects/335072341158527571
 
 19.Buzzer with ultrasonic sensor and LED:<br>
-https://wokwi.com/projects/335611089367597652
+https://wokwi.com/projects/335614105184371284
