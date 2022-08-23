@@ -110,6 +110,20 @@ void loop() {<br>
   }<br>
 }<br><br>
 
+8)Soil Moisture Sensor:<br>
+const int sensor_pin = A0;  /* Connect Soil moisture analog sensor pin to A0 of NodeMCU */<br>
+void setup() {<br>
+  Serial.begin(9600); /* Define baud rate for serial communication */<br>
+}<br>
+void loop() {<br>
+float moisture_percentage;<br>
+moisture_percentage = ( 100.00 - ( (analogRead(sensor_pin)/1023.00) * 100.00 ) );<br>
+Serial.print("Soil Moisture(in Percentage) = ");<br>
+Serial.print(moisture_percentage);<br>
+Serial.println("%");<br>
+delay(1000);<br>
+}<br><br>
+
 # Internet-Of-Things<br>
 1.Arduino LED:<br>
 https://wokwi.com/projects/333795777062109780
