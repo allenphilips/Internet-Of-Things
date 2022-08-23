@@ -85,6 +85,31 @@ void loop()<br>
     startMillis = currentMillis;<br>
   }<br>
 }<br><br>
+
+7)LED Chaser:<br>
+int pinsCount=6;                        // declaring the integer variable pinsCount<br>
+int pins[] = {D0,D1,D7,D5,D3,D2};          // declaring the array pins[]<br>
+ <br>
+void setup() {         <br>       
+  for (int i=0; i<pinsCount; i=i+1){    // counting the variable i from 0 to 9<br>
+    pinMode(pins[i], OUTPUT);            // initialising the pin at index i of the array of pins as OUTPUT<br>
+  }<br>
+}<br>
+ 
+void loop() {<br>
+  for (int i=0; i<pinsCount; i=i+1){    // chasing right<br>
+    digitalWrite(pins[i], HIGH);         // switching the LED at index i on<br>
+    delay(100);                          // stopping the program for 100 milliseconds<br>
+    digitalWrite(pins[i], LOW);          // switching the LED at index i off<br>
+  }<br>
+  for (int i=pinsCount-1; i>0; i=i-1){   // chasing left (except the outer leds)<br>
+   digitalWrite(pins[i], HIGH);         // switching the LED at index i on<br>
+    delay(100);                          // stopping the program for 100 milliseconds<br>
+    digitalWrite(pins[i], LOW);          // switching the LED at index i off<br>
+  
+  }<br>
+}<br><br>
+
 # Internet-Of-Things<br>
 1.Arduino LED:<br>
 https://wokwi.com/projects/333795777062109780
