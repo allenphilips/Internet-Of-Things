@@ -135,6 +135,8 @@ https://wokwi.com/projects/333805648701555283
 
 3.LCD:<br>
 https://wokwi.com/projects/333806682158137939
+ESP32:<br>
+https://wokwi.com/projects/341022750895243858<br>
 
 4.Ultrasonic sensor:<br>
 https://wokwi.com/projects/334346755679191635
