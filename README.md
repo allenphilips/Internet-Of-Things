@@ -1,3 +1,31 @@
+ESP32
+https://wokwi.com/projects/336966830711112275 - LED
+https://wokwi.com/projects/336967978479256147 - 3 LED
+https://wokwi.com/projects/340880463446934098 - RGB
+https://wokwi.com/projects/340882358612787796 - LCD
+https://wokwi.com/projects/340886369600537172 - Servo Motor + Pushbutton
+https://wokwi.com/projects/340888468071645780 - Servo Motor + Sliding Potentiometer
+https://wokwi.com/projects/340890155914101331 - Buzzer + Pushbutton_
+https://wokwi.com/projects/340890489300451922 - Buzzer + UltraSonic Sensor
+https://wokwi.com/projects/340890896679567955 - Potentiometer + LED
+https://wokwi.com/projects/340892440485429842 - DHT22
+https://wokwi.com/projects/340893919446303316 - LED CHASER
+https://wokwi.com/projects/340936317213868626 - LDR
+https://wokwi.com/projects/340936847717827156 - LDR + LED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # LAB LIST
 1)program1: LED WITH BUZZER
 https://wokwi.com/projects/337602112497123922
