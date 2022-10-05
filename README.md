@@ -1,4 +1,38 @@
-ESP32<br>
+ARDUINO<br>
+https://wokwi.com/projects/333796636268429907 - LED<br>
+https://wokwi.com/projects/333802415714206291 - 3 LED<br>
+https://wokwi.com/projects/333801005399409236 - RGB Led<br>
+https://wokwi.com/projects/322062421191557714 - LIQUID CRYSTAL<br>
+https://wokwi.com/projects/334977803083579987 - Servo Motor(Angluar motion)<br>
+https://wokwi.com/projects/335699264816546387 - Servo Motor + Pushbutton<br>
+https://wokwi.com/projects/334978360097636947 - (Circular Motion)<br>
+https://wokwi.com/projects/334981582917993044 - Servo Motor + Sliding Potentiometer<br>
+https://wokwi.com/projects/335065356773098066 - Buzzer<br>
+https://wokwi.com/projects/335069089200341587 - Buzzer + Pushbutton_<br>
+https://wokwi.com/projects/335068760545165907 - Buzzer + Pushbutton_(Long Press)<br>
+https://wokwi.com/projects/335616316076458578 - Buzzer + Pushbutton + LED<br>
+https://wokwi.com/projects/335071206921208402 - UltraSonic Sensor<br>
+https://wokwi.com/projects/335071463215202900 - UltraSonic Sensor(extra)<br>
+https://wokwi.com/projects/335073264458007124 - Buzzer + UltraSonic Sensor<br>
+https://wokwi.com/projects/344307134593237586 - LED + UltraSonic Sensor<br>
+https://wokwi.com/projects/344310294635348562 - LCD + UltraSonic Sensor<br>
+https://wokwi.com/projects/335075055329346132 - Buzzer + UltraSonic Sensor(Varying Instensity)<br>
+https://wokwi.com/projects/335698029159907924 - Buzzer + Ultrasonic Sensor + LED<br>
+https://wokwi.com/projects/335701186493547091 - Potentiometer + LED<br>
+https://wokwi.com/projects/337602684471214674 - DHT22(Humidity and Temperature sensor)<br>
+https://wokwi.com/projects/337604296859189842 - DHT22 + LCD(Humidity and Temperature sensor)<br>
+https://wokwi.com/projects/340775764469219922 - LED_CHASER<br>
+https://wokwi.com/projects/340776572602548818 - LDR<br>
+https://wokwi.com/projects/340776926585029204 - LDR_LED<br>
+https://wokwi.com/projects/340779619162522195 - IR_LED<br>
+
+https://wokwi.com/projects/342586116652663380 - Seven_Segment<br>
+https://wokwi.com/projects/342587401518973522 - Joystick + DotMatrix<br>
+https://wokwi.com/projects/290056311044833800 - UltraSonic sensor + LED<br>
+https://wokwi.com/projects/342588998566281812 - UltraSonic Sensor + LCD<br>
+https://wokwi.com/projects/342590296329028180 - KeyPad + LCD + Servo<br>
+https://wokwi.com/projects/342591802779370068 - LED Bar Graph + Slide PotentioMeter<br>
+<br>ESP32<br>
 https://wokwi.com/projects/336966830711112275 - LED<br>
 https://wokwi.com/projects/336967978479256147 - 3 LED<br>
 https://wokwi.com/projects/340880463446934098 - RGB<br>
